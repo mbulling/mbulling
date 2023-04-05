@@ -8,7 +8,7 @@ I'm a software developer, passionate about coding and creating innovative soluti
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mbulling&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://repo-stats-7j3e.vercel.app/api/top-langs/?username=mbulling&theme=tokyonight&exclude_repo=github-readme-stats,final-project-2019)](https://github.com/mbulling/github-readme-stats)
+[![Top Languages](https://repo-stats-7j3e.vercel.app/api/top-langs/?username=mbulling&theme=tokyonight&exclude_repo=github-readme-stats,Final-Project-2019)](https://github.com/mbulling/github-readme-stats)
 
 ## 🔧 Technologies & Tools:
 
