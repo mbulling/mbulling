@@ -6,7 +6,7 @@ I'm a software developer, passionate about coding and creating innovative soluti
 
 ## 📈 My GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mbulling&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://repo-stats-7j3e.vercel.app/api?username=mbulling&show_icons=true&theme=tokyonight)
 
 [![Top Languages](https://repo-stats-7j3e.vercel.app/api/top-langs/?username=mbulling&theme=tokyonight&exclude_repo=repo-stats,Final-Project-2019,AP_Minecraft,Flee,rapStudy,SellPoint-Mason,AcademyAI,EventualEatery)](https://github.com/mbulling/github-readme-stats)
 
