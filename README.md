@@ -14,6 +14,7 @@ I'm a software developer, passionate about coding and creating innovative soluti
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
