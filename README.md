@@ -1,29 +1,46 @@
-# Hi there, I'm Mason Bulling 👋
+<center><h1>Hi there, I'm Mason Bulling<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1></center>
 
-## 🌱 About Me:
+<center>
 
-I'm a software developer, passionate about coding and creating innovative solutions. I'm constantly learning new technologies and experimenting with them to develop cool projects.
+<br>
 
-## 📈 My GitHub Stats:
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/mbulling)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/mbulling)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/mbulling)
+[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/mbulling)
 
-![Your GitHub stats](https://repo-stats-7j3e.vercel.app/api?username=mbulling&show_icons=true&theme=tokyonight)
+<br>
 
-[![Top Languages](https://repo-stats-7j3e.vercel.app/api/top-langs/?username=mbulling&theme=tokyonight&exclude_repo=repo-stats,Final-Project-2019,AP_Minecraft,Flee,rapStudy,SellPoint-Mason,AcademyAI,EventualEatery,self,CornellCensus,CensusCornell,QuizMe,RealEstateML)](https://github.com/mbulling/github-readme-stats)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
+[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/wervlad)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
 
-## 🔧 Technologies & Tools:
+<br>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-AWS)](https://github.com/mbulling)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/wervlad)
+[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoft-azure)](https://github.com/mbulling)
+[![GCP](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=google-cloud)](https://github.com/mbulling)
 
-## 📫 Connect with me:
+</center>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andrewshchoi/](https://www.linkedin.com/in/mason-bulling-167164228/))
+<br>
+
+<center>
+
+[![Top Languages](https://repo-stats-7j3e.vercel.app/api/top-langs/?username=mbulling&theme=transparent&exclude_repo=repo-stats,Final-Project-2019,AP_Minecraft,Flee,rapStudy,SellPoint-Mason,AcademyAI,EventualEatery,self,CornellCensus,CensusCornell,QuizMe,RealEstateML)](https://github.com/mbulling/github-readme-stats)
+
+</center>
+
+<br>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/mason-bulling-167164228/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <!-- <a href="https://leetcode.com/...">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a> -->
+</p>
+
