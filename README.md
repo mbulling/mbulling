@@ -1,4 +1,4 @@
-<center><h1>Hi there, I'm Mason Bulling<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1></center>
+<center><h1>Hi there, I'm Mason Bulling<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋" style="padding-left:6px"></h1></center>
 
 <center>
 
