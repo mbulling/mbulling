@@ -25,21 +25,5 @@
 
 <br>
 
-<center>
-
-[![Top Languages](https://repo-stats-7j3e.vercel.app/api/top-langs/?username=mbulling&theme=transparent&exclude_repo=repo-stats,Final-Project-2019,AP_Minecraft,Flee,rapStudy,SellPoint-Mason,AcademyAI,EventualEatery,self,CornellCensus,CensusCornell,QuizMe,RealEstateML)](https://github.com/mbulling/github-readme-stats)
-
-<br>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/mason-bulling-167164228/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <!-- <a href="https://leetcode.com/...">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a> -->
-</p>
-
-</center>
 
 
